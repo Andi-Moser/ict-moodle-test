@@ -5,6 +5,8 @@
 !*.gitignore
 !docker-compose.yml
 !readme.md
+!generate-cert.sh
+!renew-certs.sh
 
 # And the following directories
 !nginx/
