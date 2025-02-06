@@ -4,16 +4,8 @@
 # Except for the following files
 !*.gitignore
 !docker-compose.yml
-!Dockerfile
-!tags-info.yaml
 !readme.md
 
 # And the following directories
 !nginx/
 !nginx/**/*
-
-!prebuildfs/
-!prebuildfs/**/*
-
-!rootfs/
-!rootfs/**/*
